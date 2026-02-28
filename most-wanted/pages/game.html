@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Most Wanted - Game</title>
+  <link rel="stylesheet" href="../styles/ui.css">
+</head>
+<body>
+  <div class="page">
+    <div class="game-layout">
+      <div class="canvas-wrap">
+        <canvas id="canvas" width="1280" height="720"></canvas>
+      </div>
+
+      <div class="panel">
+        <h3 style="margin-top:0;">Описание</h3>
+          <div class="panel" style="background:var(--panel-2);">
+          <p style="text-indent: 1.5em; margin: 0 0 8px 0; line-height: 1.4; text-align: justify;">
+          Вы - №1 в списке розыска! Необходимо пройти 2 уровня.
+          На каждом уровне необходимо уничтожить по 5 полицейских авто. Как только 
+          вам удастся выехать из города - вы спасены.
+          </p>
+
+          <p style="text-indent: 1.5em; margin: 0; line-height: 1.4; text-align: justify;">
+          Вы можете таранить полицейских, использовать нитро, ремкомплекты или оставлять за собой мины. 
+          Необходимо пройти игру за минимальное время. Удачи!
+          </p>
+        </div>
+
+        <h3>Управление</h3>
+        <table class="table">
+          <tbody>
+            <tr><td><span class="badge">W / S / A / D</span></td><td>Движение</td></tr>
+            <tr><td><span class="badge">Space</span></td><td>Мина</td></tr>
+            <tr><td><span class="badge">Shift</span></td><td>Нитро</td></tr>
+            <tr><td><span class="badge">E</span></td><td>Ремкомплект</td></tr>
+          </tbody>
+        </table>
+
+        <div class="row" style="margin-top:12px;">
+          <button id="pauseBtn" class="btn btn-primary">Пауза</button>
+          <button id="backBtn" class="btn btn-ghost">В меню</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="../utils/game.js"></script>
+</body>
+</html>

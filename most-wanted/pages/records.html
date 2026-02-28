@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Most Wanted - Records</title>
+  <link rel="stylesheet" href="../styles/ui.css">
+</head>
+<body>
+  <div class="page">
+    <div class="card" style="width:min(700px, 96vw);">
+      <h2>Таблица рекордов</h2>
+
+      <table class="table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Игрок</th>
+            <th>Время (ms)</th>
+          </tr>
+        </thead>
+        <tbody id="recordsBody"></tbody>
+      </table>
+
+      <div class="row" style="margin-top:14px;">
+        <button id="restartBtn" class="btn btn-primary">Начать заново</button>
+        <button id="menuBtn" class="btn btn-ghost">В меню</button>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="../utils/records.js"></script>
+</body>
+</html>

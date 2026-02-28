@@ -1,0 +1,1040 @@
+{
+    "abilityManager": {
+        "abilities": [
+            {
+                "ability": "scanner"
+            }
+        ]
+    },
+    "logHolder": {
+        "ability": 3,
+        "abilityResult": 1
+    },
+    "playerField": {
+        "field": [
+            [
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": 0,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 1,
+                        "orientation": 1,
+                        "segmentsArray": [
+                            2
+                        ],
+                        "shipIndex": 6
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": 0,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 2,
+                        "orientation": 1,
+                        "segmentsArray": [
+                            2,
+                            1
+                        ],
+                        "shipIndex": 4
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": 1,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 2,
+                        "orientation": 1,
+                        "segmentsArray": [
+                            2,
+                            1
+                        ],
+                        "shipIndex": 4
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": 0,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 3,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            2,
+                            2
+                        ],
+                        "shipIndex": 2
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": 1,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 3,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            2,
+                            2
+                        ],
+                        "shipIndex": 2
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": 2,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 3,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            2,
+                            2
+                        ],
+                        "shipIndex": 2
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": 0,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 1,
+                        "orientation": 1,
+                        "segmentsArray": [
+                            2
+                        ],
+                        "shipIndex": 7
+                    },
+                    "showFlag": true,
+                    "status": 2
+                }
+            ],
+            [
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": 0,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 3,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            0,
+                            2
+                        ],
+                        "shipIndex": 1
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": 1,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 3,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            0,
+                            2
+                        ],
+                        "shipIndex": 1
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": 2,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 3,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            0,
+                            2
+                        ],
+                        "shipIndex": 1
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "segmentIndex": 0,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 1,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2
+                        ],
+                        "shipIndex": 9
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": 0,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 4,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            2,
+                            2,
+                            2
+                        ],
+                        "shipIndex": 0
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": 1,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 4,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            2,
+                            2,
+                            2
+                        ],
+                        "shipIndex": 0
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": 2,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 4,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            2,
+                            2,
+                            2
+                        ],
+                        "shipIndex": 0
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": 3,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 4,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            2,
+                            2,
+                            2
+                        ],
+                        "shipIndex": 0
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                }
+            ],
+            [
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 1
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": 0,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 2,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            2
+                        ],
+                        "shipIndex": 5
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": 1,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 2,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2,
+                            2
+                        ],
+                        "shipIndex": 5
+                    },
+                    "showFlag": true,
+                    "status": 2
+                }
+            ],
+            [
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 1
+                }
+            ],
+            [
+                {
+                    "segmentIndex": 0,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 2,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            1,
+                            2
+                        ],
+                        "shipIndex": 3
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": 1,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 2,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            1,
+                            2
+                        ],
+                        "shipIndex": 3
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                },
+                {
+                    "segmentIndex": 0,
+                    "ship": {
+                        "isDestroyed": false,
+                        "length": 1,
+                        "orientation": 0,
+                        "segmentsArray": [
+                            2
+                        ],
+                        "shipIndex": 8
+                    },
+                    "showFlag": true,
+                    "status": 2
+                },
+                {
+                    "segmentIndex": -1,
+                    "ship": "empty",
+                    "showFlag": true,
+                    "status": 0
+                }
+            ]
+        ],
+        "height": 10,
+        "shipManager": {
+            "ships_count": 10,
+            "ships_list": [
+                {
+                    "isDestroyed": false,
+                    "length": 4,
+                    "orientation": 0,
+                    "segmentsArray": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "shipIndex": 0
+                },
+                {
+                    "isDestroyed": false,
+                    "length": 3,
+                    "orientation": 0,
+                    "segmentsArray": [
+                        2,
+                        0,
+                        2
+                    ],
+                    "shipIndex": 1
+                },
+                {
+                    "isDestroyed": false,
+                    "length": 3,
+                    "orientation": 0,
+                    "segmentsArray": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "shipIndex": 2
+                },
+                {
+                    "isDestroyed": false,
+                    "length": 2,
+                    "orientation": 0,
+                    "segmentsArray": [
+                        1,
+                        2
+                    ],
+                    "shipIndex": 3
+                },
+                {
+                    "isDestroyed": false,
+                    "length": 2,
+                    "orientation": 1,
+                    "segmentsArray": [
+                        2,
+                        1
+                    ],
+                    "shipIndex": 4
+                },
+                {
+                    "isDestroyed": false,
+                    "length": 2,
+                    "orientation": 0,
+                    "segmentsArray": [
+                        2,
+                        2
+                    ],
+                    "shipIndex": 5
+                },
+                {
+                    "isDestroyed": false,
+                    "length": 1,
+                    "orientation": 1,
+                    "segmentsArray": [
+                        2
+                    ],
+                    "shipIndex": 6
+                },
+                {
+                    "isDestroyed": false,
+                    "length": 1,
+                    "orientation": 1,
+                    "segmentsArray": [
+                        2
+                    ],
+                    "shipIndex": 7
+                },
+                {
+                    "isDestroyed": false,
+                    "length": 1,
+                    "orientation": 0,
+                    "segmentsArray": [
+                        2
+                    ],
+                    "shipIndex": 8
+                },
+                {
+                    "isDestroyed": false,
+                    "length": 1,
+                    "orientation": 0,
+                    "segmentsArray": [
+                        2
+                    ],
+                    "shipIndex": 9
+                }
+            ]
+        },
+        "width": 10
+    },
+    "playerShipManager": {
+        "ships_count": 10,
+        "ships_list": [
+            {
+                "isDestroyed": false,
+                "length": 4,
+                "orientation": 0,
+                "segmentsArray": [
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "shipIndex": 0
+            },
+            {
+                "isDestroyed": false,
+                "length": 3,
+                "orientation": 0,
+                "segmentsArray": [
+                    2,
+                    0,
+                    2
+                ],
+                "shipIndex": 1
+            },
+            {
+                "isDestroyed": false,
+                "length": 3,
+                "orientation": 0,
+                "segmentsArray": [
+                    2,
+                    2,
+                    2
+                ],
+                "shipIndex": 2
+            },
+            {
+                "isDestroyed": false,
+                "length": 2,
+                "orientation": 0,
+                "segmentsArray": [
+                    1,
+                    2
+                ],
+                "shipIndex": 3
+            },
+            {
+                "isDestroyed": false,
+                "length": 2,
+                "orientation": 1,
+                "segmentsArray": [
+                    2,
+                    1
+                ],
+                "shipIndex": 4
+            },
+            {
+                "isDestroyed": false,
+                "length": 2,
+                "orientation": 0,
+                "segmentsArray": [
+                    2,
+                    2
+                ],
+                "shipIndex": 5
+            },
+            {
+                "isDestroyed": false,
+                "length": 1,
+                "orientation": 1,
+                "segmentsArray": [
+                    2
+                ],
+                "shipIndex": 6
+            },
+            {
+                "isDestroyed": false,
+                "length": 1,
+                "orientation": 1,
+                "segmentsArray": [
+                    2
+                ],
+                "shipIndex": 7
+            },
+            {
+                "isDestroyed": false,
+                "length": 1,
+                "orientation": 0,
+                "segmentsArray": [
+                    2
+                ],
+                "shipIndex": 8
+            },
+            {
+                "isDestroyed": false,
+                "length": 1,
+                "orientation": 0,
+                "segmentsArray": [
+                    2
+                ],
+                "shipIndex": 9
+            }
+        ]
+    },
+    "winsCount": 0
+}
